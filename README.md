@@ -7,8 +7,7 @@ This project was assigned to us as an Internship, by the Department of Artificia
 
 For a quick demonstration of the work, you can directly skip to the [Demo](#demo) section of this documentation. 
 
-**Note of Gratitude** : Completing this project in time would not have been possible without the support and co-operation of my wonderful team. Take a moment to explore <a href=https://www.linkedin.com/feed/update/urn:li:activity:7219531714358910976/>my team.</a><br><br>
-
+**Note of Gratitude** : Completing this project in time would not have been possible without the support and co-operation of my wonderful team.
 # Introduction and Objective
 
 The main objective is to build a portal, that can automate evaluations for an organization. There are a few features we wanted in particular.
@@ -261,7 +260,7 @@ https://github.com/user-attachments/assets/0769e346-45ee-4748-a941-2d2a6962f4ee
 
 # Queries and Feedback
 
-For any Queries and feedback please mail me at notvenupulagam@gmail.com
+For any Queries and feedback please mail me at dhanushsanapala@gmail.com
 
 Hope the documentation helped you learn something about the project. I wish all the best for the next team to handle this project.
 
